@@ -11,6 +11,8 @@ namespace GithubTest
         static void Main(string[] args)
         {
             string s = "";
+
+            s = "test-branch 1";
         }
     }
 }
